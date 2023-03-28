@@ -9,9 +9,13 @@ The first one is a HandTracking module that detects and tracks the hand position
 The second code begins by setting up the camera with the desired height and width. Next, it loads a set of finger images from 0 to 5 from a folder previously prepared, and stoes them in a list. For the main loop, it captures frame from the webcam and uses the hand detector previously written to find the positions of the hands in the frame. The coordinates of the specific landmarks on the hand are used to determine which fingers are extended. Finally, the finger count will overlay the corresponding finger image on the frame and diplay the finger count, all in real-time video.
 # How To Run The Codes ?
 1- Open either PyCharm (Python IDE) or Visual Stuio Code (which supports Python) depending on your preferences.
+
 2- Download the necessary packages: 
+
 3- Write first the HandTracking module, and second the main code.
+
 4- Check for errors and test.
+
 5- Have fun with it and make it better!
 # Possible Improvements
 Of course this project can be scaled up by making it count until 10 (meaning 2 hands can be used) or even more! Stay tuned for future imporvements!! ;) 
