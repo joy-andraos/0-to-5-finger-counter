@@ -1,6 +1,6 @@
 # Project Description
-This is a simple project that aims to practice my skills in Artificial Intelligence, namely the Computer Vision field, which derives meaningful information from visual inputs such as images and videos. In this project, running the python code will open the camera and once the hand is detected, the finger counter will identify which number is displayed by the hand. 
-All the codes were taught by Murtaza's Workshop on Youtube
+This is a simple project that aims to practice my skills in Artificial Intelligence, namely the Computer Vision field, which derives meaningful information from visual inputs such as images and videos. In this project, running the main python code will open the camera and once the hand is detected, the finger counter will identify which number is displayed by the hand. 
+All the codes were taught by Murtaza's Workshop on Youtube.
 # How Does It Work ?
 2 python codes were written in order to achieve the Finger Counter. 
 
@@ -10,7 +10,7 @@ The second code begins by setting up the camera with the desired height and widt
 # How To Run The Codes ?
 1- Open either PyCharm (Python IDE) or Visual Stuio Code (which supports Python) depending on your preferences.
 
-2- Download the necessary packages: 
+2- Download the necessary packages: Mediapipe and OpenCv (use any version between Python 3.7 to 3.10 since the new versions do not support Mediapipe yet). 
 
 3- Write first the HandTracking module, and second the main code.
 
