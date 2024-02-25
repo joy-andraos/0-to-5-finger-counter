@@ -10,14 +10,14 @@ The second code begins by setting up the camera with the desired height and widt
 
 In this project, we set the maximum number of allowed hands to 2. Therefore, the user can count from 0 to 5 by using 2 hands.
 # How To Run The Codes ?
-1- Open either PyCharm (Python IDE) or Visual Stuio Code (which supports Python) depending on your preferences.
+1- Open either PyCharm (Python IDE) or Visual Studio Code (which supports Python) depending on your preferences.
 
 2- Download the necessary packages: Mediapipe and OpenCv (use any version between Python 3.7 to 3.10 since the new versions do not support Mediapipe yet). 
 
-3- Write first the HandTracking module, and second the main code.
+3- Write first the HandTracking module, and then the main code.
 
 4- Check for errors and test.
 
 5- Have fun with it and make it better!
 # Possible Improvements
-Of course this project can be scaled up by making it count to 10 or even more (leading to increasing the maximum number of allowed hands). Stay tuned for future imporvements!! ;) 
+Of course this project can be scaled up by making it count to 10 or even more (leading to increasing the maximum number of allowed hands). Stay tuned for future imporvements! 
